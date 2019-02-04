@@ -33,9 +33,9 @@ Menjalankan perintah/shell pada server/router menggunakan `ssh` di bahasa pemrog
 
 - #### Screenshot
 
-     - lookme Mikrotik 
+     - lookme Mikrotik <br>
         <center> <img src="https://github.com/rootshaxor/lookme/raw/master/ss/1.png"> </center>
-     - lookme Debian Server
+     - lookme Debian Server <br>
         <center> <img src="https://github.com/rootshaxor/lookme/raw/master/ss/2.png"> </center>
 
 - #### Build
