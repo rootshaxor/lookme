@@ -33,8 +33,8 @@ Menjalankan perintah/shell pada server/router menggunakan `ssh` di bahasa pemrog
 
 - #### Screenshot
 
-    - ![1]("https://github.com/rootshaxor/lookme/blob/master/ss/1.png)
-    - ![2]("https://github.com/rootshaxor/lookme/blob/master/ss/1.png")
+    - <img src="https://github.com/rootshaxor/lookme/raw/master/ss/1.png">
+    - <img src="https://github.com/rootshaxor/lookme/raw/master/ss/2.png">
 
 - #### Build
     > go build lookme
