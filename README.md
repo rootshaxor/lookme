@@ -33,8 +33,17 @@ Menjalankan perintah/shell pada server/router menggunakan `ssh` di bahasa pemrog
 
 - #### Screenshot
 
-    - <img src="https://github.com/rootshaxor/lookme/raw/master/ss/1.png">
-    - <img src="https://github.com/rootshaxor/lookme/raw/master/ss/2.png">
+     - lookme Mikrotik 
+        <center> <img src="https://github.com/rootshaxor/lookme/raw/master/ss/1.png"> </center>
+     - lookme Debian Server
+        <center> <img src="https://github.com/rootshaxor/lookme/raw/master/ss/2.png"> </center>
 
 - #### Build
-    > go build lookme
+    > go build lookme.go
+
+- #### Kekurangan
+    - [x] Auto complete
+    - [x] Tidak bisa menjalankan editor 
+        * nano
+        * vi
+        * pico
